@@ -26,3 +26,6 @@ The solution obtained to a TSP instance after performing the 2-opt heuristic dep
 ```python
 tsp_solver(distances, workers, n) 
 ```
+
+ # Credits
+ This if a fork of [this repository](https://github.com/mehdibnc/TSP2opt).
